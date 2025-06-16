@@ -1,0 +1,23 @@
+{
+  "name": "multi-page-editor",
+  "version": "1.0.0",
+  "description": "A rich text editor supporting up to 10,000 pages with multiple font and color options.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo \"No build step configured\"",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "editor",
+    "rich-text",
+    "multi-page",
+    "javascript",
+    "html"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
